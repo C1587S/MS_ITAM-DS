@@ -1,3 +1,4 @@
 Esta carpeta contiene las entregas de la semana 1 del propedéutico. 
 
-Para el punto 2 que incluye el módulo de diferencias centradas se adjunta el archivo ".py". Ya que debo introducir el código para poder ejecutarlo en Jupyter.
+Para el punto 2 que incluye el módulo de diferencias centradas se adjunta el archivo ".py". Ya que debo introducir el código para poder ejecutarlo en Jupyter. (Update: Ya se incluyo esta parte en	"4_Modulos_test.ipynb". 
+"
