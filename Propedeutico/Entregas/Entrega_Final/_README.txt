@@ -24,6 +24,5 @@ tiempo razonable para hacer una evaluación preliminar de conjuntos de datos de 
 
 Para el desarrollo de esta interfaz gráfica se recurrió a documentación disponible de forma pública en la web, y particularmente 
 para el desarrollo de la gráfica de datos se tomó como base el repositorio disponible en https://github.com/cameres/gapminder-shiny.
-/En la fase beta de este proyecto (antes de importar los datos directamente del repositorio de gapminder, se utilizan los archivos provistos por el autor para
-realizar un test). 
+/En la fase beta de este proyecto (antes de importar los datos directamente del repositorio de gapminder, se utilizan los archivos provistos por el autor  (en formato csv) para realizar un test). 
 Para el desarrollo del análisis de residuos, se tomó como base la documentación provista en: http://www.learnbymarketing.com/tutorials/linear-regression-in-r/
