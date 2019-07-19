@@ -1,3 +1,5 @@
+Nota: El proyecto está en actualización, en breve se subirán los archivos actualziados y la aplicación disponible en una imagen  virtual para su reproducción.
+
 El proyecto final tiene como objetivos la exploración de múltiples paquetes de R con el fin de realizar una aplicación sencilla
 de los temas revisados en el curso. 
 
